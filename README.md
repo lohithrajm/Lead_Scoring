@@ -1,4 +1,4 @@
-<# Problem Statement:>
+# Problem Statement:
 
 * An education company named X Education, which sells online courses to industry professionals, wants to identify hot leads from initial pool of leads.
 *  The sales team would then focus on the hot leads, and would try and convert all the hot leads through regular e-mail and phone call conversations.
